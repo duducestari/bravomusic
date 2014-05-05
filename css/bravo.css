@@ -32,7 +32,7 @@ div {
 	margin-bottom: 1%;
 	width: 98%;
 	height: 35%;
-	background-image: url('imagens/bravoimage.svg');
+	background-image: url('imagens/bravoimage.png');
 	background-size: 55%;
 	background-color: #;
 	background-repeat: no-repeat;
@@ -309,14 +309,16 @@ div {
 	
 
 	.empresa{
+	font-size: 25px;
 	color: #FBB03B;
 	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 	text-align: right;
 	margin-top: -5%;
-	margin-right: 50%;
+	margin-right: 45%;
 	}
 	
 	.loja{
+	font-size: 25px;
 	color: #FBB03B;
 	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 	text-align: right;
@@ -325,6 +327,7 @@ div {
 	}
 	
 	.code{
+	font-size: 25px;
 	color: #FBB03B;
 	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 	text-align: right;
@@ -357,7 +360,7 @@ div {
 	}
 	
 	.sacola{
-		margin-left: -5%;
+		margin-left: -4%;
 		margin-top: 2%;
 		width: 20%;
 	}
@@ -472,7 +475,7 @@ div {
 	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 	text-align: right;
 	margin-top: -13%;
-	margin-right: 55%;
+	margin-right: 53%;
 	}
 	
 	.p4 {
@@ -480,11 +483,11 @@ div {
 	text-shadow:#000 1px -1px, #000 -1px 1px, #000 1px 1px, #000 -1px -1px;
 	text-align: right;
 	margin-top: -15%;
-	margin-right: 37%;
+	margin-right: 34%;
 	}
 	
 	.sacola{
-		margin-left: -5%;
+		margin-left: -4%;
 		margin-top: 2%;
 		width: 15%;
 	}
